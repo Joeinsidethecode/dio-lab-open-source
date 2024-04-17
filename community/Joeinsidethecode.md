@@ -1,7 +1,8 @@
-## Sobre Mim
+# Introducing Myself
 #### Hello! I'm a 50+ beginner in the world of technology, development and programming. I took my first steps in 2023 learning about programming logic and Python.
-Me considero um profissional versátil e em constante evolução, dando seus primeiros passos e buscando horizontes e desafios em tecnologia para construir uma nova carreira de sucesso e sem fronteiras em um futuro próximo.
 
+## Sobre Mim
+Me considero um profissional versátil e em constante evolução, dando seus primeiros passos e buscando horizontes e desafios em tecnologia para construir uma nova carreira de sucesso e sem fronteiras em um futuro próximo.
 
 ## Minhas Certificações
 ![1](https://github.com/Joeinsidethecode/dio-lab-open-source/assets/147886590/646c21d6-287b-4b13-9f52-2f5e0fc9ced5)
