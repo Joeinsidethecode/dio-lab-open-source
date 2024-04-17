@@ -1,5 +1,7 @@
-## Sobre Mim
+# Introducing Myself
 #### Hello! I'm a 50+ beginner in the world of technology, development and programming. I took my first steps in 2023 learning about programming logic and Python.
+
+## Sobre Mim
 Me considero um profissional versátil e em constante evolução, dando seus primeiros passos e buscando horizontes e desafios em tecnologia para construir uma nova carreira de sucesso e sem fronteiras em um futuro próximo.
 
 
